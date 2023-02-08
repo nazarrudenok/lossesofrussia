@@ -1,0 +1,91 @@
+@media screen and (max-width: 480px) {
+    
+    .body {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    
+    .home-page {
+        font-size: 19px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+    
+    .pages {
+        margin: 8px;
+        font-size: 19px;
+        text-align: center;
+    }
+    .english {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .main-info {
+        font-size: 19px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .losses-photo {
+        width: 320px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+
+    }
+
+    .home-page-text-danger {
+        font-size: 19px;
+    }
+    
+    .usage-info {
+        font-size: 25px;
+    }
+
+    .application {
+        width: 320px;
+    }
+
+    .avalible-func {
+        font-size: 17px;
+    }
+
+    .glory-to-Ukraine {
+        margin-top: 20px;
+        font-size: 30px;
+    }
+
+    .about-us-text {
+        font-size: 19px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .for-what {
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: 25px;
+    }
+
+    .for-what-text {
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: 19px;
+    }
+
+    .contacts-text {
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: 19px;
+    }
+
+    .contacts-links {
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 19px;
+    }
+
+    .ruskie-are-not-peoples {
+        width: 335px;
+    }
+}
