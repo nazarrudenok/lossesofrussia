@@ -1,5 +1,6 @@
 body {
-    background-color: black;
+    margin: 0;
+    background: url(images/backround3.jpg);
 }
 
 header {
@@ -11,6 +12,7 @@ ul {
     list-style: none;
     margin: 0;
     padding: 10px;
+    background-color: black;
 }
 
 .pages {
