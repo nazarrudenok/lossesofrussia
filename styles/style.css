@@ -24,7 +24,7 @@ ul {
 }
 
 .pages:hover {
-    color: rgb(212, 30, 30);
+    color: #ff005d;
 }
 
 li {    
@@ -60,7 +60,7 @@ li {
 }
 
 .english-version {
-    color: rgb(212, 30, 30);
+    color: #ff005d;
 }
 
 .losses-photo {
