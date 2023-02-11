@@ -43,7 +43,11 @@
     }
 
     .application {
-        width: 320px;
+        width: 335px;
+    }
+
+    .usage-info-eng {
+        width: 335px;
     }
 
     .avalible-func {
